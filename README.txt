@@ -36,7 +36,7 @@ READ ME:
     - Exceptions are handled in this class
 
 Execution steps:
-    All the java programs are present in the package 'tic-tac-toe'
+    All the java programs are present in the package sdassignment2
     The code is tested using NetBeans IDE
     All the programs need to be in the same package
     Play.java is the program to be executed
