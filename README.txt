@@ -1,6 +1,6 @@
 READ ME:
 
-Assignment2 consists of 7 different class files:
+'tic-tac-toe' consists of 7 different class files:
 1. Player.java
     - This class contains methods to set the markers (i.e. X or O) for the computer and the player
 2. set.java
@@ -26,7 +26,7 @@ Assignment2 consists of 7 different class files:
     - Internally makes calls to set.java
     - This class is for the 'Hard' level of the game. This class checks for 8 different conditions. 4 to check if it is possible to win in the next move and 4 to block the users winning scenario. If none of the conditions satisfy the maker is placed at a randomly chosen position
 7. Play.java
-    - This is the main class of the Assignment2
+    - This is the main class of the tic-tac-toe
     - Player is asked to choose the size of the board
     - Once a valid board size is chosen, the player is asked to select the game level
     - After selecting the level, player is given an option to choose the marker (i.e. X or O)
@@ -36,7 +36,7 @@ Assignment2 consists of 7 different class files:
     - Exceptions are handled in this class
 
 Execution steps:
-    All the java programs are present in the package 'sdassignment2'
+    All the java programs are present in the package 'tic-tac-toe'
     The code is tested using NetBeans IDE
     All the programs need to be in the same package
     Play.java is the program to be executed
